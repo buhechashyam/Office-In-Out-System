@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Timer Task</string>
+    <string name="txt_menu_timer">Timer</string>
+    <string name="txt_dash_dashboard">Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_total_time">Total Time</string>
+    <string name="txt_round_1">Round-1</string>
+    <string name="txt_btn_start">Start</string>
+    <string name="txt_btn_stop">Stop</string>
+</resources>
